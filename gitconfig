@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tiagofsaraiva@hotmail.com
+	name = tiago saraiva
